@@ -2,11 +2,11 @@
 
 CRUD mengunakan REACT dan REDUX diganakan untuk management state
 
-### `npm test/npm run test`
+### `npm test | npm run test`
 
 Unit testing jest directory src/action/Action.test.js
 
-### `npm run ssr/node server/index.js`
+### `npm run ssr | node server/index.js`
 
 Server Side Rendering
 
